@@ -6,6 +6,8 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 Tamo Junto!
 
+Essa experiencia tem sido muito daora!
+
 ## Fluxo de trabalho Git Local
 01. git checkout -b
 02. cria ou atualiza arquivos
